@@ -7,6 +7,10 @@ The blog is based on the [Gatsby starter Lumen](https://github.com/alxshelepenok
 
 This project contains the basic AWS infrastructure as [Terraform](https://www.terraform.io/) scripts.
 
+![infrastructure](./doc/2020-03-27-blog-infrastucture.png "technical infrastructure of divisionby0 blog") 
+
+Further information regarding the infrastructure are available under [https://divisionby0.de](https://divisionby0.de/posts/blog-iac-mit-terraform).
+
 ## How to use
 ### Prerequisites
 If you want to use this scripts you should:
